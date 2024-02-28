@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(253, 218, 19);
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 150px;
+}
+
+header{
+    height: 400px;
+    background-image: url(https://i.pinimg.com/564x/51/16/1d/51161d7932c019f381492803387e200e.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+div{
+    text-align: end;
+}
